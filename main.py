@@ -70,3 +70,5 @@ while True:
         print('')
         print('')
         break
+# © 2018 LearnPythonEasy
+# Nathaniel B.
